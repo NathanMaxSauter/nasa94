@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head> 
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <style type="text/css">
+        
+
+ #ersterAbschnitt
+        
+        {
+            color:darkorange;
+            background-color: aqua;
+            width: 200px;
+        }
+        
+</head>
+
+
+<body>
+    <title>Hello World!</title>
+    <h1>Hello World!</h1>
+    <div id ="erster Abschnitt"><h2>A few facts about the world <br>we live in!</h2></div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/898px-The_Earth_seen_from_Apollo_17.jpg" width="350" height="350" align="left">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pvuN_WvF1to" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="right"></iframe>
+    
+    <br> <br> <br> <br> <br>  
+    <br> <br> <br> <br> <br>
+    <br> <br> <br> <br> <br>
+    <br> <br> <br> <br> 
+    
+   
+<p>
+    Earth is the third planet from the sun and is the largest of the terrestrial planets. Unlike the other planets in the solar system that are named after classic deities the Earth's name comes from the anglo-saxon word erda which means ground or soil. The Earth was formed approximately 4.54 billion years ago and is the only known planet to support life.
+</p>
+
+<hr>
+    <h2>About the earth</h2>
+    
+    <ul>
+    <li><strong>Mass:</strong> 5,972,190,000,000,000 billion kg</li>
+    <li><strong>Diameter at equator:</strong> 12,756 km </li>
+    <li><strong>Satellites:</strong> <a href=”https://en.wikipedia.org/wiki/Moon”>The moon</a> </li>     
+    </ul>
+<hr>
+    <h2>Top 3 earth facts</h2>
+    
+    <ol>
+    <li>The earth rotation is gradually slowing.</li>
+    <li>A year isn't exactly 365 days, and the earth doesn't take 24 hours to rotate.</li>
+    <li>70% of the earth's surface is water, and only one third of the fresh water is unfrozen.</li>
+    </ol>
+    
+<hr>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Radius</th>
+                <th>Average</th>
+                <th>Temperature</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Mars</td>
+                <td>3,390km</td>
+                <td>-55°C</td>
+            </tr>
+            <tr>
+                <td>Venus</td>
+                <td>6,052km</td>
+                <td>460°C</td>
+            </tr>
+        </tbody>
+    </table>
+<hr>
+    <p>Want to know more?</p>
+    
+    <button>
+        <a href=”https://en.wikipedia.org/wiki/Earth”>Click here!</a>
+    </button>
+    
+    </body>
+</html>
